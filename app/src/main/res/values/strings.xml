@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Code Generator</string>
+    <string name="c39n">Code39 for Name</string>
+    <string name="c39u">Code39 for UUID</string>
+    <string name="c39p">Code39 for Price</string>
+    <string name="qr">QR Code</string>
+    <string name="qrsha256">QR Code SHA256</string>
+
+</resources>
